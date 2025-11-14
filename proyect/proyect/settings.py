@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-pirdry!2u%%ft3(_t%&0k1zdq&hftfwu01ecya471-cnph-@d*
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '127.0.0.1:5173'
+    '127.0.0.1:5173',
+    'compilador-018r.onrender.com'
 ]
 
 
