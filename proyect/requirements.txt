@@ -1,6 +1,6 @@
 Django
 gunicorn
-django-cors-headers
 djangorestframework
+django-cors-headers
 antlr4-tools
 antlr4-python3-runtime==4.13.2
